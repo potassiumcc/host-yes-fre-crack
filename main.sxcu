@@ -1,0 +1,14 @@
+{
+    "Name": "2021 minecraft crack 20120 crack 2021 minecrafr crack",
+    "DestinationType": "ImageUploader, FileUploader",
+    "RequestType": "POST",
+    "RequestURL": "http://localhost:2000/upload",
+    "FileFormName": "file",
+    "Arguments": {
+        "key": "sugpula"
+    },
+    "ResponseType": "Text",
+    "URL": "$json:file.url$",
+    "ThumbnailURL": "",
+    "DeletionURL": "$json:file.delete_url$"
+}

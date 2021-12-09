@@ -1,0 +1,26 @@
+{
+    "port": 2000,
+    "keys": [
+        "sugpula"
+    ],
+    "fileSizeLimit": 52428800,
+    "fileNameLength": 8,
+    "useLocalStaticServe": true,
+    "staticFileServerUrl": "http://localhost:2000/f/",
+    "serverUrl": "http://localhost:2000",
+    "uploadDirectory": "uploads/",
+    "ssl": {
+        "useSSL": false,
+        "privateKeyPath": "",
+        "certificatePath": ""
+    },
+    "fileExtensionCheck": {
+        "enabled": false,
+        "extensionsAllowed": [
+            ".png",
+            ".jpg",
+            ".jpeg",
+            ".gif"
+        ]
+    }
+}

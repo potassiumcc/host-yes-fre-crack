@@ -1,0 +1,33 @@
+{
+  "name": "sharex-upload-server",
+  "version": "0.2.2",
+  "description": "ShareX upload server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moquo/node-sharex-upload-server.git"
+  },
+  "keywords": [
+    "sharex",
+    "upload",
+    "server"
+  ],
+  "author": "ravi0lii",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ravi0lii/node-sharex-upload-server/issues"
+  },
+  "homepage": "https://github.com/ravi0lii/node-sharex-upload-server#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "colors": "^1.1.2",
+    "express": "^4.16.2",
+    "express-fileupload": "^1.1.9",
+    "file-exists": "^5.0.0",
+    "q": "^1.5.1",
+    "random-string": "^0.2.0"
+  }
+}
