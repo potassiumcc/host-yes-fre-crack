@@ -11,5 +11,7 @@
     "file-exists": "^5.0.0",
     "q": "^1.5.1",
     "random-string": "^0.2.0"
+  "scripts": {
+    "start": "node app.js"
   }
 }
