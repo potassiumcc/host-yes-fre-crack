@@ -24,7 +24,7 @@ professional shit coder maker real 2017 xxxMinecraftplayas>>xxxx MinecraftDOwnla
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/vawnair/host-yes-fre-crack.git
 ```
 
 cd to it
