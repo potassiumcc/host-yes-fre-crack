@@ -1,11 +1,11 @@
 {
-  "name": "my-server",
+  "name": "amog",
   "version": "1.0.0",
   "description": "An express application",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-    "build": "node index.js"
+    "build": "node app.js"
   },
   "dependencies": {
     "body-parser": "^1.18.2",
